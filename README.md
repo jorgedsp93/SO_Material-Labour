@@ -1,3 +1,5 @@
+THIS REPOSITORY IS NOT AVAILABLE FOR COMMERCIAL USE
+
 This project adds new fields and calculations to Acumatica Field Service for Service Orders. It helps you:
 
 Calculate Budgeted and Actual costs for Materials and Labor
